@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Source II Studio | Premium Children's Book Illustration</title>
+
+<meta name="description" content="Premium children's book illustration and character design studio serving authors and publishers worldwide.">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+<h1>Source II Studio</h1>
+<p>Premium Children's Book Illustration Studio</p>
+</header>
+
+<section>
+
+<h2>Illustration Services</h2>
+
+<ul>
+<li>Children's Book Illustration</li>
+<li>Character Design</li>
+<li>Amazon KDP Artwork</li>
+<li>Story Concept Development</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>About the Studio</h2>
+
+<p>
+Source II Studio is led by illustrator Sadiqa Akhter with over 11 years of professional experience creating children’s book illustrations and character designs for authors and publishers worldwide.
+</p>
+
+</section>
+
+<section>
+
+<h2>Client Trust</h2>
+
+<ul>
+<li>11+ Years Experience</li>
+<li>Full Commercial Rights Provided</li>
+<li>NDA Available</li>
+<li>500+ Global Projects</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>Contact</h2>
+
+<p>Email: hello@sourceiistudio.com</p>
+
+<p>WhatsApp: +92 335 3077806</p>
+
+</section>
+
+</body>
+</html>
